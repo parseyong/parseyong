@@ -1,6 +1,6 @@
 ## Hi there 👋
 안녕하세요 박세용입니다.
-![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=parseyong&layout=compact&theme=dark)
+SOLID 원칙을 준수한 객체지향적 설계에 관심이 많으며, 협업 과정에서 코드 컨벤션과 Clean Code의 중요성을 인지하여 리팩토링을 지속적으로 하고 있습니다. 또한,  CS 지식을 코드에 녹여내기 위해 끊임없이 노력하고 있습니다.
 
 ## Skills
 <div>
