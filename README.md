@@ -1,7 +1,8 @@
 ## Hi there 👋
-
+안녕하세요 박세용입니다.
 ![깃허브 언어 사용 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=parseyong&layout=compact&theme=dark)
 
+## Skills
 <div>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
